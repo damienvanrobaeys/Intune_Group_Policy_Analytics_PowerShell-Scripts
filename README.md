@@ -17,5 +17,3 @@ New-IntuneGroupPolicyReport.ps1
 
 Remove-IntuneGroupPolicyReport.ps1
 - Remove a specific GPO report from the Intune portal by using its name
-
-![alt text](https://github.com/damienvanrobaeys/Run-in-Sandbox/blob/master/run_ps1_preview.gif.gif)
