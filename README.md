@@ -1,12 +1,13 @@
 # Intune Group Policy Analytics: PowerShell scripts
 Group Policy Analytics: Import or remove GPO report with PowerShell
 
+> *View the full blog post here*
+http://www.systanddeploy.com/2019/06/run-file-in-windows-sandbox-from-right.html
+
+**Available scripts**
 You will find the below scripts:
 - New-IntuneGroupPolicyReport.ps1
 - Remove-IntuneGroupPolicyReport.ps1
-
-> *View the full blog post here*
-http://www.systanddeploy.com/2019/06/run-file-in-windows-sandbox-from-right.html
 
 **What do those scripts ?**
 New-IntuneGroupPolicyReport.ps1
