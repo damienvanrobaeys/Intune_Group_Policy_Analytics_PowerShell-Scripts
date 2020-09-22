@@ -2,7 +2,7 @@
 Group Policy Analytics: Import or remove GPO report with PowerShell
 
 > *View the full blog post here*
-http://www.systanddeploy.com/2019/06/run-file-in-windows-sandbox-from-right.html
+http://www.systanddeploy.com/2020/09/group-policy-analytics-scripts-import.html
 
 **Available scripts**
 You will find the below scripts:
