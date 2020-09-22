@@ -10,6 +10,7 @@ You will find the below scripts:
 - Remove-IntuneGroupPolicyReport.ps1
 
 **What do those scripts ?**
+
 New-IntuneGroupPolicyReport.ps1
 - Export On-Prem GPOs (all or single) to XML report from your on-prem env
 - Upload a GPO XML report to Intune
